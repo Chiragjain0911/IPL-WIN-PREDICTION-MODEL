@@ -74,7 +74,8 @@ Extend to other formats like ODI or T20 leagues
 
 📷 Screenshots
 
-![App Screenshot](path/to/screenshot.png)
+![App Screenshot](https://github.com/Chiragjain0911/IPL-WIN-PREDICTION-MODEL/blob/main/Screenshot%202025-05-09%20021239%20(1).png
+)
 
 
 🙋‍♂️ Contact
