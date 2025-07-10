@@ -75,5 +75,7 @@ Extend to other formats like ODI or T20 leagues
 
 Feel free to connect for questions or collaborations!
 Chirag Jain – B.Tech in AI & ML (2023–2026)
+
 📧 Email: jainchirag9575@gmial.com
+
 🔗 LinkedIn/GitHub: www.linkedin.com/in/chirag-jain-406145276
