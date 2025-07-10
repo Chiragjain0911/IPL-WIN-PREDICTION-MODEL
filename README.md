@@ -1,2 +1,85 @@
-# IPL-DATA-ANALYISIS-PROJECT
-Data Analytics is all about finding valuable insights that help businesses take right decisions. In this Project, I have done exploratory data analysis using python.Indian Premier League is a famous cricket league played in India every year during the period between March and May. It is played in a professional T20 format of the game. This league is played by 8 teams representing 8 different cities across India. This league started in 2008 and it has been a big hit and it is the most attended league in the World. Each team with their profit buys best players from across the World. It is also one of the big reason behind Indian team's success as the league brings out the best talent from a billion population in India.When it comes to Twenty20 cricket (T20), a more evolved and nuanced approach to analytics is the need of the hour — and the Indian Premier League (IPL) is a glaring example of this.Back in the day when Test matches were the be-all and end-all of cricket, data analysis simply meant keeping track of runs scored and wickets taken. Then came One-Day Internationals (ODIs), and the world woke up to strike rates, economy rates, chase precision, among others. Soon, we began to crunch video data to analyse player movements. Enter T20s, and we are now comparing ball-by-ball data streams with the existing legacy data to generate unprecedented real-time insights. In the end, T20 numbers need to be placed in more situational and contextual spaces — without compromising on the objectivity of analysis. For this, a whole new stats language is indispensable.The dataset that we have used for our analysis is the publicly available on kaggle which is a reservoir of datasets for all cricket matches of IPL. The analysis focusses on T20 matches in particular, and accordingly, we have analyze mathes, calculated and weighted the metrics for batsman and bowlers in context of the shorter version of the game.The data covers 10 seasons and includes ball-by-ball data. So for analysis I am going to use the Python packages are: numpy, pandas, matplotlib, and seaborn.I have learned all this tools and technique from the "Data Analysis with Python: Zero to Pandas" course in this course they taught each and every concept very well.
+🏏 Cricket Live Win Predictor
+
+This project is a real-time win probability predictor for IPL matches using machine learning. It helps users predict the chances of each team winning based on live match inputs like score, overs, and wickets.
+
+
+🔍 Project Objective
+
+To build a machine learning model and a web app that:
+
+Predicts the win probability of IPL teams in real time
+
+Supports fans, analysts, and cricket strategists with quick insights
+
+
+⚙️ How It Works
+
+User Inputs:
+
+Batting Team
+
+Bowling Team
+
+Match City
+
+Target Score
+
+Current Score
+
+Overs & Wickets
+
+Click "Predict Probability"
+The app instantly shows win chances (%) for both teams.
+
+
+🧠 Technologies Used
+
+Python
+
+Streamlit (Web App)
+
+Pandas, NumPy (Data Handling)
+
+Scikit-learn (ML Models)
+
+Logistic Regression (Model used)
+
+
+💡 Key Features
+
+Real-time prediction
+
+Simple user interface
+
+Lightweight and fast
+
+Helps in decision-making during live matches
+
+
+📊 Results
+
+Achieved 82% accuracy in predicting outcomes on test data
+
+Web app gives instant win prediction during a live match
+
+
+🚀 Future Scope
+
+Add live API integration for automatic input
+
+Include more match factors (like pitch, player form, etc.)
+
+Extend to other formats like ODI or T20 leagues
+
+
+📷 Screenshots
+
+![App Screenshot](path/to/screenshot.png)
+
+
+🙋‍♂️ Contact
+
+Feel free to connect for questions or collaborations!
+Chirag Jain – B.Tech in AI & ML (2023–2026)
+📧 Email: jainchirag9575@gmial.com
+🔗 LinkedIn/GitHub: www.linkedin.com/in/chirag-jain-406145276
